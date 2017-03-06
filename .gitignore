@@ -13,7 +13,7 @@ npm-debug.log
 node_modules
 .idea
 .tern-port
-lib
+# lib
 es
 build
 dist
